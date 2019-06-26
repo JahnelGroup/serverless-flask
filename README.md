@@ -47,3 +47,5 @@ Test locally with `sls wsgi serve`
 Deploy with `sls deploy`
 
 View logs with `sls logs -f app`
+
+Remove it with `sls remove`
