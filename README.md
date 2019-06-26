@@ -35,6 +35,10 @@ Create a new group called `Serverless` and add the following policies:
 
 ## Setup Serverless
 
+First upgrade to the latest version of npm with `npm install -g npm@latest`.
+
+Then install the serverless packages.
+
 ```bash
 $ npm install -g serverless
 $ npm update -g serverless
